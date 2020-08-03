@@ -26,13 +26,13 @@ I love learning new things, and passionate about the art of writing clean, elega
   <br>
   <br>
   <a href="https://github.com/itielMaimon">
-    <img src="https://badges.pufler.dev/visits/itielmaimon/itielmaimon?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/itielMaimon">
     <img src="https://badges.pufler.dev/years/itielmaimon?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/itielMaimon">
     <img src="https://badges.pufler.dev/repos/itielmaimon?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/itielMaimon">
+    <img src="https://badges.pufler.dev/visits/itielmaimon/itielmaimon?style=flat-square&color=black&logo=github">
   </a>
 </p>
 
