@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Itiel, I'm a Software Engineer with 6+ years of experience developing mobile (Android, Flutter, React Native) and full stack web (React, Node.js, MongoDB) apps.
-I love learning new things ant passionate about the art of writing clean, elegant, beautiful code, that just makes software development so fun.
+I love learning new things, and passionate about the art of writing clean, elegant, beautiful code, that just makes software development so fun.
 - 🔭 I’m currently working with Unity 3D.
 - 🌱 I’m currently deepening my knowledge in React and Node.js.
 - 🌐 Visit my [porfolio website](https://itiel.me/) for complete background and contact.
@@ -13,12 +13,12 @@ I love learning new things ant passionate about the art of writing clean, elegan
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ItielMaimon)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@itielmaimon)
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://itiel.me/) 
-![Visits Badge](https://badges.pufler.dev/visits/itielmaimon/itielmaimon?style=for-the-badge ) 
+![Visits Badge](https://badges.pufler.dev/visits/itielmaimon/itielmaimon?style=for-the-badge) 
 
 ---
 My Github Stats: 
-https://badges.pufler.dev/years/itielmaimon
-https://badges.pufler.dev/repos/itielmaimon
+![Years Badge](https://badges.pufler.dev/years/itielmaimon)
+![Repos Badge](https://badges.pufler.dev/repos/itielmaimon)
 
 <br>
 
