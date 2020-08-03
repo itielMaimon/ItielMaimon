@@ -1,5 +1,5 @@
 
-<h2>Hi there <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"></h2>
+<h2>Hi there<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 My name is Itiel, I'm a Software Engineer with 6+ years of experience developing mobile (Android, Flutter, React Native) and full stack web (React, Node.js, MongoDB) apps.
@@ -8,7 +8,7 @@ I love learning new things, and passionate about the art of writing clean, elega
 - 🌱 I’m currently deepening my knowledge in React and Node.js.
 - 🌐 Visit my [website](https://itiel.me/) for more info about me.
 
-#### 📫 Contact me
+#### 📫 Contact Me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/itielmaimon/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ItielMaimon)
@@ -18,7 +18,7 @@ I love learning new things, and passionate about the art of writing clean, elega
 [<img src ="https://img.shields.io/badge/portfolio-web%23.svg?&style=for-the-badge&logo=globe&logoColor=white">](https://itiel.me/)
 
 ---
-#### My Github Stats
+<h4> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="24"> Github Stats</h4>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=itielmaimon&show_icons=true&theme=radical&line_height=33">
