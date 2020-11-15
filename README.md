@@ -5,7 +5,7 @@
 My name is Itiel, I'm a Software Engineer with 6+ years of experience developing mobile (Android, Flutter, React Native) and full stack web (React, Node.js, MongoDB) apps. 
 I love contributing to the open source community by answering questions on Stack Overflow and showcasing inspirational projects on GitHub.
 
-Loves the art of writing clean, elegant, beautiful code, that just makes software development so fun. Trying to learn something new every day. ✌️
+I'm passionate about the art of writing clean, elegant, beautiful code, that just makes software development so fun. Trying to learn something new every day. 🤞
 - 🔭 I’m currently working with React and Node.js.
 - 🌱 I’m currently deepening my knowledge in Docker and Kubernetes.
 - 🌐 Visit my [website](https://itiel.me/) for more info about me.
