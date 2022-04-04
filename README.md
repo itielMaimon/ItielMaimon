@@ -2,20 +2,20 @@
 <h2>Hi there<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-My name is Itiel, I'm a Software Engineer with 6+ years of experience developing mobile (Android, Flutter, React Native) and full stack web (React, Node.js, MongoDB) apps. 
-I love contributing to the open source community by answering questions on Stack Overflow and showcasing inspirational projects on GitHub.
+My name is Itiel, I'm a Full Stack Software Engineer with 7+ years of experience developing full stack web and mobile apps.
+I love contributing to the open source community by assisting users on Stack Overflow and by showcasing inspirational projects on GitHub.
 
-I'm passionate about the art of writing clean, elegant, beautiful code, that just makes software development so fun. Trying to learn something new every day. 🤞
-- 🔭 I’m currently working with React and Node.js.
-- 🌱 I’m currently deepening my knowledge in Docker and Kubernetes.
+I'm passionate about the art of writing clean, elegant, beautiful code, that just makes software development so fun.
+
+Trying to learn something new every day. 🤞
+- 🔭 I’m currently working with React and .NET 6.
+- 🌱 I’m currently deepening my knowledge of Docker and Kubernetes.
 - 🌐 Visit my [website](https://itiel.me/) for more info about me.
 
 #### 📫 Contact Me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/itielmaimon/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ItielMaimon)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/itielmaimon/)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ItielMaimon)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@itielmaimon)
 [<img src ="https://img.shields.io/badge/portfolio-web%23.svg?&style=for-the-badge&logo=globe&logoColor=white">](https://itiel.me/)
 
