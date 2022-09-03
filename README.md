@@ -52,3 +52,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Twitter Follow](https://img.shields.io/twitter/follow/ItielMaimon?style=social)
+![GitHub followers](https://img.shields.io/github/followers/ItielMaimon?style=social&label=Follow%20Me)
