@@ -12,6 +12,8 @@ Trying to learn something new every day. 🤞
 - 🌱 I’m currently deepening my knowledge of Docker and Kubernetes.
 - 🌐 Visit my [website](https://itiel.me/) for more info about me.
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/ItielMaimon?style=social)](https://twitter.com/ItielMaimon)
+
 #### 📫 Contact Me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/itielmaimon/)
@@ -52,6 +54,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Twitter Follow](https://img.shields.io/twitter/follow/ItielMaimon?style=social)
-![GitHub followers](https://img.shields.io/github/followers/ItielMaimon?style=social&label=Follow%20Me)
