@@ -2,7 +2,7 @@
 <h2>Hi there<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-My name is Itiel, I'm a Full Stack Software Engineer with 7+ years of experience developing full stack web and mobile apps.
+My name is Itiel, I'm a Senior Full Stack Software Engineer with 10+ years of experience developing full stack web and mobile apps.
 I love contributing to the open source community by assisting users on Stack Overflow and by showcasing inspirational projects on GitHub.
 
 I'm passionate about the art of writing clean, elegant, beautiful code, that just makes software development so fun.
@@ -25,7 +25,6 @@ Trying to learn something new every day. 🤞
 <h4> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="24"> Github Stats</h4>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=itielmaimon&show_icons=true&theme=radical&line_height=33">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=itielmaimon&hide=css,html,ShaderLab&theme=tokyonight">
   <br>
   <br>
