@@ -22,6 +22,10 @@ Trying to learn something new every day. 🤞
 [<img src ="https://img.shields.io/badge/portfolio-web%23.svg?&style=for-the-badge&logo=globe&logoColor=white">](https://itiel.me/)
 
 ---
+
+
+[![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=ItielMaimon&theme=gruvbox_duo&hide_border=true)](https://itiel.me/)
+
 <h4> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="24"> Github Stats</h4>
 
 <p align = "center">
